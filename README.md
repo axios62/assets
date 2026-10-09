@@ -39,6 +39,7 @@
     <td><code>#000000</code></td>
   </tr>
 </table>
+<img width="250" src="https://github.com/user-attachments/assets/33766469-ea08-4584-bc1e-1bf47e9d24c2" />
 
 ## Logotipo
 
@@ -140,6 +141,7 @@
     <td><code>#33EAA1</code></td>
   </tr>
 </table>
+
 
 ## Sentiment Colors
 
